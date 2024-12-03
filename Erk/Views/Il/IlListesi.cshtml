@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Erk.DTO.Entities.Il>
+@{
+    ViewData["Title"] = "IlListesi";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h2>İl Listesi</h2>
+
+<div class="mb-3">
+    <a href="@Url.Action("IlEkle", "Il")" class="btn btn-primary">Yeni İl Ekle</a>
+    <a href="@Url.Action("IlEkleExcel", "Il")" class="btn btn-secondary">Excel'den İl Ekle</a>
+</div>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>#</th>
+            <th>İl Adı</th>
+            <th>İşlemler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var il in Model)
+        {
+            <tr>
+                <td>@il.IlId</td>
+                <td>@il.IlAdi</td>
+                <td>
+                    <a href="@Url.Action("IlGuncelle", "Il", new { id = il.IlId })" class="btn btn-warning">Güncelle</a>
+                    <a href="@Url.Action("IlSil", "Il", new { id = il.IlId })" class="btn btn-danger" onclick="return confirm('Silmek istediğinize emin misiniz?')">Sil</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+

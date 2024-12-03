@@ -1,0 +1,74 @@
+﻿@model IEnumerable<Erk.DTO.Entities.Admin>
+@{
+    ViewData["Title"] = "AdminListe";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row g-3">
+    <div class="col-auto">
+        <div class="position-relative">
+            <input class="form-control px-5" type="search" placeholder="Search Customers">
+            <span class="material-icons-outlined position-absolute ms-3 translate-middle-y start-0 top-50 fs-5">search</span>
+        </div>
+    </div>
+    <div class="col-auto flex-grow-1 overflow-auto">
+        <div class="btn-group position-static">
+            <div class="btn-group position-static">
+                <button type="button" class="btn border btn-filter dropdown-toggle px-4" data-bs-toggle="dropdown" aria-expanded="false">
+                    Payment Status
+                </button>
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" href="javascript:;">Action</a></li>
+                    <li><a class="dropdown-item" href="javascript:;">Another action</a></li>
+                    <li><hr class="dropdown-divider"></li>
+                    <li><a class="dropdown-item" href="javascript:;">Something else here</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+    <div class="col-auto">
+        <div class="d-flex align-items-center gap-2 justify-content-lg-end">
+            <a class="btn btn-primary px-4" asp-action="AdminEkle" asp-controller="Admin"><i class="bi bi-plus-lg me-2">Yeni Admin Kaydet</i></a>
+        </div>
+    </div>
+</div>
+<div class="card mt-4">
+    <div class="card-body">
+        <div class="customer-table">
+            <div class="table-responsive white-space-nowrap">
+                <table class="table align-middle">
+                    <thead class="table-light">
+                        <tr>
+                            <th>Admin ID</th>
+                            <th>Adı</th>
+                            <th>Soyadı</th>
+                            <th>E Posta Adresi</th>
+                            <th>Şifre</th>
+                            <th>Oluşturulma Tarihi</th>
+                            <th>Aktiflik Durumu</th>
+                            <th>İşlemler</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model)
+                        {
+                            <tr>
+                                <td>@item.AdminID</td>
+                                <td>@item.AdminAd</td>
+                                <td>@item.AdminSoyad</td>
+                                <td>@item.AdminEPosta</td>
+                                <td>@item.AdminSifre</td>
+                                <td>@item.AdminUyelikTarihi</td>
+                                <td>@item.AdminAktiflikDurumu</td>
+                                <td><a class="btn btn-sm btn-primary" href="/Admin/AdminGuncelle/@item.AdminID">Düzenle</a> </td>
+                                @* <a href="/Admin/AdminSil/@item.AdminID" class="btn btn-sm btn-danger" onclick="return confirm('Emin misiniz?')">Sil</a> *@
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

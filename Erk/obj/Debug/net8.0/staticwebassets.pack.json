@@ -1,0 +1,3577 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Erk.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Erk.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Admin\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\bg-forgot.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\bg-forgot.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\bg-login.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\bg-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\bg-register.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\bg-register.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\bg-reset-password.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\bg-reset-password.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\error-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\error-bg.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\error-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\16.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\17.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\18.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\19.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\20.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\21.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\carousels\\22.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\carousels\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\Admin\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\Admin\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\Admin\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\Admin\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\main.css",
+      "PackagePath": "staticwebassets\\Admin\\sass\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\Admin\\sass\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\Admin\\sass\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\Admin\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\Admin\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\Admin\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Admin\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\Admin\\sass\\semi-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Giris\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Giris\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\bg-forgot.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\bg-forgot.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\bg-login.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\bg-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\bg-register.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\bg-register.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\bg-reset-password.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\bg-reset-password.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\error-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\error-bg.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\error-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\16.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\17.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\18.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\19.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\20.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\21.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\carousels\\22.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\carousels\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\Giris\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\Giris\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\Giris\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\Giris\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\Giris\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\Giris\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\Giris\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\main.css",
+      "PackagePath": "staticwebassets\\Giris\\sass\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\Giris\\sass\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\Giris\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\Giris\\sass\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\Giris\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\Giris\\sass\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\Giris\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\Giris\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Giris\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\Giris\\sass\\semi-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Guest\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Guest\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\Guest\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\banner-image.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\banner-image.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\cart-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\cart-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\cart-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\cart-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\commentor-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\commentor-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\commentor-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\commentor-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\commentor-item3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\commentor-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\dhl.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\dhl.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\insta-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\insta-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\insta-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\insta-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\insta-item3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\insta-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\insta-item4.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\insta-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\insta-item5.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\insta-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\mastercard.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\mastercard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\paypal.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\paypal.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-image.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-image1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item4.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item5.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item6.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item7.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item8.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-item9.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-small-image1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-small-image1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-small-image2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-small-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\post-small-image3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\post-small-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item10.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\product-item9.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\product-item9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\review-item1.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\review-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\review-item2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\review-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\shippingcard.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\shippingcard.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\singel-product-item.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\singel-product-item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\single-image1.png",
+      "PackagePath": "staticwebassets\\Guest\\images\\single-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\single-image2.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\single-image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\single-image3.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\single-image3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\single-post.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\single-post.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\images\\visa.jpg",
+      "PackagePath": "staticwebassets\\Guest\\images\\visa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Guest\\js\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Guest\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\Guest\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\Guest\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\Guest\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\js\\script.js",
+      "PackagePath": "staticwebassets\\Guest\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Guest\\style.css",
+      "PackagePath": "staticwebassets\\Guest\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\css\\bootstrap-extended.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\css\\bootstrap-extended.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\css\\extra-icons.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\css\\extra-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\10.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\11.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\12.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\13.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\14.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\15.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\16.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\17.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\18.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\19.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\apps\\20.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\apps\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\bg-forgot.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\bg-forgot.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\bg-login.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\bg-login.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\bg-register.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\bg-register.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\bg-reset-password.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\bg-reset-password.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\error-bg.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\error-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\error-bg.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\error-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\forgot-password1.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\forgot-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\login1.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\login1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\register1.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\register1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\auth\\reset-password1.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\auth\\reset-password1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\10.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\11.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\avatars\\12.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\avatars\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\10.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\11.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\12.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\13.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\14.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\15.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\16.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\17.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\18.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\19.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\20.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\21.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\carousels\\22.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\carousels\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\cat\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\cat\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\county\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\county\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\10.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\11.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\12.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\13.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\14.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\15.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\16.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\17.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\18.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\gallery\\19.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\gallery\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\logo-icon.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\logo1.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\logo1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\10.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\11.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\12.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\megaIcons\\13.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\megaIcons\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\08.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\orders\\09.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\orders\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\angular.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\angular.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\bootstrap.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\bootstrap.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\django.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\django.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\magento.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\magento.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\python.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\python.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\react.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\react.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\projects\\vue.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\projects\\vue.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\01.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\02.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\03.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\04.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\05.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\06.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\images\\top-products\\07.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\images\\top-products\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\index.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\index2.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\index2.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\Drag-And-Drop\\dist\\imageuploadify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\apexchart\\apex-custom-chart.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\apexchart\\apex-custom-chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\apexchart\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\apexchart\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\apexchart\\data-cards.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\apexchart\\data-cards.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\css\\bs-stepper-custom.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\css\\bs-stepper.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\css\\custom.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\css\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\bs-stepper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\index.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\index.spec.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\index.spec.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\listeners.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\listeners.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\main.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\polyfill.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\polyfill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\bs-stepper\\js\\util.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\bs-stepper\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\chartjs\\js\\chart.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\chartjs\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\chartjs\\js\\chartjs-custom.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\chartjs\\js\\chartjs-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\datatable\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\datatable\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\datatable\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.postmessage-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\cors\\jquery.xdr-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_fileupload.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_microphone.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_okay.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_remove.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_upload.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\fancy_webcam.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.fancy-fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.fileupload.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.iframe-transport.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fancy-file-uploader\\jquery.ui.widget.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\form-repeater\\repeater.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\form-repeater\\repeater.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fullcalendar\\css\\main.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fullcalendar\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fullcalendar\\css\\main.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fullcalendar\\css\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fullcalendar\\js\\main.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fullcalendar\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\fullcalendar\\js\\main.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\fullcalendar\\js\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\gmaps\\map-custom-script.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\gmaps\\map-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\input-tags\\css\\tagsinput.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\input-tags\\css\\tagsinput.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\input-tags\\js\\tagsinput.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\input-tags\\js\\tagsinput.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.js.map",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\metismenu\\metisMenu.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\metismenu\\mm-vertical.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\metismenu\\mm-vertical.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\css\\lobibox.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\css\\lobibox.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\css\\lobibox.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\css\\lobibox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\1.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\2.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\3.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\4.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\5.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\img\\6.jpg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\lobibox.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\lobibox.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\lobibox.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\lobibox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\messageboxes.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\messageboxes.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\messageboxes.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\messageboxes.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\notification-custom-script.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\notification-custom-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\notifications.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\notifications.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\js\\notifications.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\js\\notifications.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound1.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound1.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound2.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound2.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound3.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound3.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound4.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound4.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound5.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound5.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\notifications\\sounds\\sound6.ogg",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\notifications\\sounds\\sound6.ogg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\peity\\jquery.peity.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\peity\\jquery.peity.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\perfect-scrollbar\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\perfect-scrollbar\\js\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\select2\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\select2\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\select2\\js\\select2-custom.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\select2\\js\\select2-custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\select2\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\simplebar\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\simplebar\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\simplebar\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\simplebar\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\validation\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\validation\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\validation\\validation-script.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\validation\\validation-script.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-au-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-in-mill.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\assets\\plugins\\vectormap\\jvectormap.custom.js",
+      "PackagePath": "staticwebassets\\Musteri\\assets\\plugins\\vectormap\\jvectormap.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\bordered-theme.css",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\bordered-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\bordered-theme.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\bordered-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\bordered-theme.scss",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\bordered-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\dark-theme.css",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\dark-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\dark-theme.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\dark-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\dark-theme.scss",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\dark-theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\main.css",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\main.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\main.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\main.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\responsive.css",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\responsive.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\responsive.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\responsive.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\semi-dark.css",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\semi-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\semi-dark.css.map",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\semi-dark.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\Musteri\\sass\\semi-dark.scss",
+      "PackagePath": "staticwebassets\\Musteri\\sass\\semi-dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\source\\repos\\Erk\\Erk\\wwwroot\\uploads\\marka\\istockphoto-1183921035-612x612.jpg",
+      "PackagePath": "staticwebassets\\uploads\\marka\\istockphoto-1183921035-612x612.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Erk.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Erk.props",
+      "PackagePath": "build\\Erk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Erk.props",
+      "PackagePath": "buildMultiTargeting\\Erk.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Erk.props",
+      "PackagePath": "buildTransitive\\Erk.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,65 @@
+﻿@model Erk.DTO.Entities.Admin
+@{
+    ViewData["Title"] = "AdminEkle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>AdminKayit</h1>
+
+<form asp-action="AdminEkle" asp-controller="Admin" method="post">
+    <div class="row">
+        <div class="col-12 col-lg-12">
+            <div class="card">
+                <div class="card-body p-4">
+                    <h5 class="mb-4">Admin Kayıt Bilgilerini Giriniz</h5>
+                    <div class="row mb-3">
+                        <label for="AdminAd" class="col-sm-3 col-form-label">Adı</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" id="AdminAd" asp-for="AdminAd" placeholder="Adı">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="AdminSoyad" class="col-sm-3 col-form-label">Soyadı</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" id="AdminSoyad" asp-for="AdminSoyad" placeholder="Soyadı">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="AdminEPosta" class="col-sm-3 col-form-label">E Posta Adresi</label>
+                        <div class="col-sm-9">
+                            <input type="email" class="form-control" id="AdminEPosta" asp-for="AdminEPosta" placeholder="E Posta Adresi">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="AdminSifre" class="col-sm-3 col-form-label">Şifre</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" id="AdminSifre" asp-for="AdminSifre" placeholder="Şifre">
+                        </div>
+                    </div>
+                    <div class="row mb-3">
+                        <label for="AdminAktiflikDurumu" class="col-sm-3 col-form-label">Aktiflik Durumu</label>
+                        <div class="col-sm-9">
+                            <select class="form-select" id="AdminAktiflikDurumu" asp-for="AdminAktiflikDurumu">
+                                <option value="">Durum Seçiniz</option>
+                                <option value="true">Aktif</option>
+                                <option value="false">Pasif</option>
+                            </select>
+                            <span asp-validation-for="AdminAktiflikDurumu" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <label class="col-sm-3 col-form-label"></label>
+                        <div class="col-sm-9">
+                            <div class="d-md-flex d-grid align-items-center gap-3">
+                                <input type="submit" value="Kaydet" class="btn btn-outline-success px-4" />
+                                <input type="reset" value="Temizle" class="btn btn-outline-danger px-4" />
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+

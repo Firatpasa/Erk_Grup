@@ -1,0 +1,30 @@
+﻿@model Erk.DTO.Entities.Kategori
+@{
+    ViewData["Title"] = "KategoriGunccelle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>KategoriGunccelle</h1>
+<!-- Card Görünümü ve Shadow Efekti -->
+<div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+        <h4 class="card-title text-center">Kategori Güncelleme</h4>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <!-- Kategori Adı Alanı -->
+                <div class="col-12 mb-3 col-md-8 offset-md-2">
+                    <div class="form-group">
+                        <label for="KategoriAdi">Kategori Adı</label>
+                        <input type="text" class="form-control" id="KategoriAd" name="KategoriAd" value="@Model.KategoriAd" required />
+                    </div>
+                </div>
+                <!-- Güncelle Butonu -->
+                <div class="col-12 mb-3 col-md-8 offset-md-2">
+                    <button type="submit" class="btn btn-success w-100">Güncelle</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

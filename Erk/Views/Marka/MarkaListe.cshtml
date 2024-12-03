@@ -1,0 +1,54 @@
+﻿@model IEnumerable<Erk.DTO.Entities.Marka>
+@{
+    ViewData["Title"] = "MarkaListe";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+        <h4 class="card-title">Markalar Listesi</h4>
+    </div>
+    <div class="card-body">
+        <div class="table-responsive">
+            <table class="table table-striped table-bordered">
+                <thead>
+                    <tr>
+                        <th>Marka Adı</th>
+                        <th>Marka Durumu</th>
+                        <th>Marka Resmi</th>
+                        <th>İşlemler</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var marka in Model)
+                    {
+                        <tr>
+                            <td>@marka.MarkaAd</td>
+                            <td>@(marka.MarkaDurumu ? "Aktif" : "Pasif")</td>
+                            <td>
+                                @if (!string.IsNullOrEmpty(marka.MarkaResim))
+                                {
+                                    <img src="~/uploads/marka/@marka.MarkaResim" alt="@marka.MarkaAd" width="200" height="200" />
+                                }
+                                else
+                                {
+                                    <span>Resim Yok</span>
+                                }
+                            </td>
+                            <td>
+                                <!-- Düzenleme Butonu -->
+                                <a href="@Url.Action("MarkaDuzenle", "Marka", new { id = marka.MarkaID })" class="btn btn-warning btn-sm">Düzenle</a>
+
+                                <!-- Silme Butonu -->
+                                <form action="@Url.Action("MarkaSil", "Marka", new { id = marka.MarkaID })" method="post" style="display:inline;">
+                                    <button type="submit" class="btn btn-danger btn-sm" onclick="return confirm('Markayı silmek istediğinizden emin misiniz?')">Sil</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+

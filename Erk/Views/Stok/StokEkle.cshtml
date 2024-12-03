@@ -1,0 +1,39 @@
+﻿@model Erk.DTO.Entities.Stok
+@{
+    ViewData["Title"] = "StokEkle";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<!-- Card Görünümü ve Shadow Efekti -->
+<div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+        <h4 class="card-title">Stok Kodu Ekleme</h4>
+    </div>
+    <div class="card-body">
+        <form method="post">
+            <div class="row">
+                <!-- Stok Kodu Alanı -->
+                <div class="col-12 mb-3 col-md-8 offset-md-2">
+                    <div class="form-group">
+                        <label for="StokKod">Stok Kodu</label>
+                        <input type="text" class="form-control" id="StokKod" name="StokKod" value="@Model.StokKodu" required />
+                    </div>
+                </div>
+                <!-- Stok Durumu Alanı -->
+                <div class="col-12 mb-3 col-md-8 offset-md-2">
+                    <div class="form-group">
+                        <label for="StokDurumu">Stok Durumu</label>
+                        <select class="form-control" id="StokDurumu" name="StokDurumu" required>
+                            <option value="true" selected="@(Model.StokAktiflikDurumu ? "selected" : null)">Aktif</option>
+                            <option value="false" selected="@(!Model.StokAktiflikDurumu ? "selected" : null)">Pasif</option>
+                        </select>
+                    </div>
+                </div>
+                <!-- Kaydet Butonu -->
+                <div class="col-12 mb-3 col-md-8 offset-md-2">
+                    <button type="submit" class="btn btn-success w-100">Kaydet</button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>

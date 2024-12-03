@@ -1,0 +1,70 @@
+﻿@{
+    ViewData["Title"] = "KategoriListe";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<h1>Kategori Listesi</h1>
+
+<!-- Arama Formu -->
+<form asp-action="KategoriListesi" method="get" class="form-inline mb-3">
+    <div class="form-group">
+        <div class="row">
+            <div class="col-10 col-lg-10 ">
+                <label for="searchTerm" class="mr-2">Kategori Ara:</label>
+                <input type="text" name="searchTerm" value="@ViewData["SearchTerm"]" class="form-control" placeholder="Kategori adı ile ara" />
+            </div>
+            <div class="col-2 col-lg-2">
+                <button type="submit" class="btn btn-primary ml-2">Ara</button>
+            </div>
+        </div>
+        
+    </div>
+    
+</form>
+
+@if (TempData["Success"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["Success"]
+    </div>
+}
+
+@if (Model.Count == 0)
+{
+    <div class="alert alert-warning">
+        Kategori bulunamadı.
+    </div>
+}
+else
+{
+    <table class="table table-bordered">
+        <thead>
+            <tr>
+                <th>Kategori Adı</th>
+                <th>Durum</th>
+                <th>Üst Kategori ID</th>
+                <th>İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var kategori in Model)
+            {
+                <tr>
+                    <td>@kategori.KategoriAd</td>
+                    <td>@(kategori.KategoriDurumu ? "Aktif" : "Pasif")</td>
+                    <td>@kategori.KategoriUstKategoriID</td>
+                    <td>
+                        <a href="@Url.Action("KategoriGunccelle", new { id = kategori.KategoriID })" class="btn btn-warning btn-sm">Düzenle</a>
+                        <a href="@Url.Action("KategoriSil", new { id = kategori.KategoriID })" class="btn btn-danger btn-sm" onclick="return confirm('Bu kategoriyi silmek istediğinizden emin misiniz?')">Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<div>
+    <a href="@Url.Action("KategoriEkle")" class="btn btn-success">Yeni Kategori Ekle</a>
+    <a href="@Url.Action("ExceldenKategoriEkle")" class="btn btn-info ml-2">Excel'den Kategori Ekle</a>
+</div>
+

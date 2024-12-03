@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewData["Title"] = "IlEkleExcel";
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="card shadow-lg">
+    <div class="card-header bg-primary text-white">
+        <h4 class="card-title">Excel'den İl Ekle</h4>
+    </div>
+    <div class="card-body">
+        <form method="post" enctype="multipart/form-data">
+            <div class="form-group">
+                <label for="excelFile">Excel Dosyası</label>
+                <input type="file" class="form-control" id="excelFile" name="excelFile" accept=".xlsx,.xls" required />
+            </div>
+            <button type="submit" class="btn btn-success mt-2">Yükle</button>
+        </form>
+    </div>
+</div
+

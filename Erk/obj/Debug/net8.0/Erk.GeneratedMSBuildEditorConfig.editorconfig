@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Erk
+build_property.RootNamespace = Erk
+build_property.ProjectDir = C:\Users\Mert\source\repos\Erk\Erk\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Mert\source\repos\Erk\Erk
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Admin/AdminEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5Fa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Admin/AdminGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5HdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Admin/AdminListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRtaW5MaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Giris/Giris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2lyaXNcR2lyaXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Ilce/IlceEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxjZVxJbGNlRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Il/IlEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxcSWxFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Il/IlEkleExcel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxcSWxFa2xlRXhjZWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Il/IlGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxcSWxHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Il/IlListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWxcSWxMaXN0ZXNpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Kategori/KategoriEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Kategori/KategoriExcelEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlFeGNlbEVrbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Kategori/KategoriGuncelle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlHdW5jZWxsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Kategori/KategoriListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcS2F0ZWdvcmlcS2F0ZWdvcmlMaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Marka/MarkaDuzenle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2FcTWFya2FEdXplbmxlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Marka/MarkaEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2FcTWFya2FFa2xlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Marka/MarkaListe.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFya2FcTWFya2FMaXN0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_AnaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BbmFMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_LayoutGiris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRHaXJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_LayoutMusteri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRNdXN0ZXJpLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Stok/StokEkle.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rva1xTdG9rRWtsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Stok/StokListesi.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3Rva1xTdG9rTGlzdGVzaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Mert/source/repos/Erk/Erk/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oqygsif152
